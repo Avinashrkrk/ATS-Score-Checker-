@@ -2,6 +2,11 @@
 
 ## About The Project
 
+![Logo](images/img1.png)
+![Logo](images/img2.png)
+![Logo](images/img3.png)
+
+
 Resume Cabin is an advanced Applicant Tracking System (ATS) designed to revolutionize the resume evaluation process using cutting-edge Generative AI models from Google. This tool empowers users to submit their resumes for comprehensive analysis based on a provided job description. With expertise in various tech domains such as software engineering, data science, and cloud engineering, Resume Cabin evaluates resumes in the competitive job market. Users can upload resumes in PDF format, and the system extracts relevant information using PyPDF2. The analysis includes a percentage match with the job description, identification of missing keywords, and a refined profile summary. This innovative solution aims to help individuals enhance their resumes for better performance in job applications. The Streamlit web application provides an intuitive interface, making the resume enhancement process efficient and accessible.
 
 ## Built With
