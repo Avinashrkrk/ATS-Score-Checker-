@@ -30,7 +30,7 @@ This section provides instructions on setting up your project locally. Follow th
    Navigate to the directory where you want to install the project.
    Run the following command to clone the GitHub repository:
    ```bash
-   git clone https://github.com/KalyanMurapaka45/Resume-Cabin.git
+   https://github.com/Avinashrkrk/ATS-Score-Checker-
 2. **Install Dependencies**
    Run the following command to install project dependencies:
    ```bash
